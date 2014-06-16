@@ -1,10 +1,8 @@
 Vaga
 --------------------------------------------------------------------
---------------------------------------------------------------------
 **Plataforma de Comentários**
 
 CV 
---------------------------------------------------------------------
 --------------------------------------------------------------------
 
 ##JAIR MILANES JUNIOR
@@ -28,7 +26,6 @@ Facebook: http://facebook.com/layoutz
 ---------------------------------------------------------------------
 Apresentação
 ---------------------------------------------------------------------
----------------------------------------------------------------------
 Olá, seja bem vindo ao meu currículo, tenho 32 anos sou casado e tenho
 2 filhos, 15 a 3 anos de idade, atualmente resido na cidade de Maringá/PR
 e trabalho com desenvolvimento web a aproximadamente 6 anos, 3 destes anos
@@ -43,13 +40,11 @@ tanto pessoal quanto profissional.
 ---------------------------------------------------------------------
 Resumo profissional
 ---------------------------------------------------------------------
----------------------------------------------------------------------
 Especializado em aplicações web principalmente utilizando **PHP & MYSQL**, sou **Zend Certified PHP Engineer** e **Microsoft Certified Specialist**, experiência avançada em desenvolvimento orientado a objeto (OOP) e técnicas de desenvolvimento ágil com **Scrum** & **Kanbam**, experiência intermediária com **TDD e A/B testing**, avançado conhecimento de diversos frameworks como **Zend & Codeigniter**, **Jquery** e afins como **Bootstrap & UI**.
    
      
 ---------------------------------------------------------------------
 Experiência
----------------------------------------------------------------------
 ---------------------------------------------------------------------
 **Web developer freelancer**  
 *Boa Compra / UOL inc / Janeiro de 2008 até hoje Maringá / PR*   
@@ -74,15 +69,12 @@ Reparos e suporte em pc´s e notebooks, configuração de redes sem e cabeadas, 
 ---------------------------------------------------------------------
 Idiomas
 ---------------------------------------------------------------------
----------------------------------------------------------------------
-
-Português Nativo
-Inglês fluente ( *8 Anos de vivencia nos Estados Unidos* )
-
+Português Nativo   
+Inglês Fluente ( *8 Anos de vivencia nos Estados Unidos* )    
+Espanhol Básico
 
 ---------------------------------------------------------------------
 Certificados
----------------------------------------------------------------------
 ---------------------------------------------------------------------
 **Developing in HTML5 with JavaScript and CSS3**   
 *Microsoft Certified Professional* and *Microsoft Solutions Specialist*
@@ -93,7 +85,6 @@ Certificados
 
 ---------------------------------------------------------------------
 Portfolio
----------------------------------------------------------------------
 ---------------------------------------------------------------------
 **Layoutz Web**   
 *http://layoutz.com.br*   
@@ -107,7 +98,7 @@ Plataforma para visualização de templates para o cms OsClass, com painel de co
 *http://bazaardelas.com.br*    
 Website de compra e venda de artigos femininos novo e usados. 
 
-**Pagseguro Local Sandbox**    
+**Pagseguro Local Sandbox (Beta)**    
 *http://pagsegurosandbox.layoutz.com.br/*    
 Sandbox local para auxilio na integração com a API V2 de pagamentos do PagSeguro, permite a criação de transações e notificações de mudança de status sem limites, desenvolvido em PHP, MYSQL, HTML5, CSS3 & JAVASCRIPT.
 
@@ -116,11 +107,4 @@ Mais projetos particulares no **BitBucket**.
 ( *Posso fornecer um usuário se necessário para visualização*. )   
 
 
-
-
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+---------------------------------------------------------------------
