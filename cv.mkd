@@ -1,15 +1,121 @@
 Vaga
 ====
+Plataforma de Comentários
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
-
-CV
+CV 
 ==
+--------------------------------------------------------------------
 
-[Preencha aqui o seu cv]
+##JAIR MILANES JUNIOR
+
+Nascido em **12 de Março de 1982** natural da cidade de **Cornélio Procópio/PR**   
+   
+**Endereço:**    
+Rua Paraíso 422A - Maringá - PR - 87005-260
+
+**Contato**  
+*Telefone*: 44-3222-4750    
+*Celular*: 44-9873-7919    
+*Email*: web@layoutz.com.br    
+*Website*: http://layoutz.com.br
+
+**Outros**   
+Linkedin: http://www.linkedin.com/pub/jair-milanes-junior/62/942/934    
+Facebook: http://facebook.com/layoutz
+
+
+---------------------------------------------------------------------
+Apresentação
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Olá, seja bem vindo ao meu currículo, tenho 32 anos sou casado e tenho
+2 filhos, 15 a 3 anos de idade, atualmente resido na cidade de Maringá/PR
+e trabalho com desenvolvimento web a aproximadamente 6 anos, 3 destes anos
+apenas como freelancer e outros 3 em empresas locais.
+Minha última experiência profissional foi em uma das empresas UOL.inc
+onde atuava como "Analista de Sistemas Pleno".
+
+Adoro oque faço e faço porque gosto, tenho imenso prazer em meus projetos 
+e criações e estou sempre em busca de novas experiências e crescimento,
+tanto pessoal quanto profissional.
+
+---------------------------------------------------------------------
+Resumo profissional
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Especializado em aplicações web principalmente utilizando **PHP & MYSQL**, sou **Zend Certified PHP Engineer** e **Microsoft Certified Specialist**, experiência avançada em desenvolvimento orientado a objeto (OOP) e técnicas de desenvolvimento ágil com **Scrum** & **Kanbam**, experiência intermediária com **TDD e A/B testing**, avançado conhecimento de diversos frameworks como **Zend & Codeigniter**, **Jquery** e afins como **Bootstrap & UI**.
+   
+     
+---------------------------------------------------------------------
+Experiência
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+**Web developer freelancer**  
+*Boa Compra / UOL inc / Janeiro de 2008 até hoje Maringá / PR*   
+Website: *http://www.layoutz.com.br/*   
+Desenvolvimento de websites, templates a plugins para diversos cms´s open source disponíveis na web como Wordpress, Joomla, Opencart e OsClass e também Integrações com meios de pagamento como PagSeguro, Moip, Paypal dentre outros.
+
+**Analista de Sistemas Pleno**   
+*Boa Compra / UOL inc / Janeiro de 2013 – Maio de 2014 ( 1 ano 4 meses ) Maringá / PR*   
+Website: *http://www.boacompra.com/*   
+Desenvolvimento de aplicações e integrações web responsáveis pela divulgação e suporte aos cliente de jogos online parceiros utilizando PHP & MYSQL dentre outras diversas tecnologias assim como técnicas de desenvolvimento ágil como Scrum & Kanbam, e também controles de versão com Svn & Github.
+
+**Analista de Sistemas Pleno**   
+*Sub100 Sistemas / Outubro de 2012 – fevereiro de 2013 (5 meses)Maringá /PR*   
+Website: *http://www.sub100sistemas.com.br/*   
+Design e desenvolvimento de sistemas e websites para empresas do ramo imobiliário, construtoras, loteadoras e imobiliárias, utilizando tecnologias como PHP & MYSQL, HTML, CSS, JAVASCRIPT, SNV e Scrum como metodologia ágil.
+
+**Técnico de Informática**   
+*DuhPC Informática / Janeiro de 2008 – outubro de 2012 (4 anos 10 meses) Maringá/PR*   
+Reparos e suporte em pc´s e notebooks, configuração de redes sem e cabeadas, instalação de programas e sistemas operacionais, atendimento ao cliente e vendas.
+
+
+---------------------------------------------------------------------
+Idiomas
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+Português Nativo
+Inglês fluente ( *8 Anos de vivencia nos Estados Unidos* )
+
+
+---------------------------------------------------------------------
+Certificados
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+**Developing in HTML5 with JavaScript and CSS3**   
+*Microsoft Certified Professional* and *Microsoft Solutions Specialist*
+
+**Zend PHP 5 Certified Engineer**    
+*Zend Technologies, Licença ZEND023653*
+
+
+---------------------------------------------------------------------
+Portfolio
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+**Layoutz Web**   
+*http://layoutz.com.br*   
+Loja virtual de produtos digitais e serviços de conversão e customização de plugins e templates.
+
+**Plataforma de demos para OsClass (Beta)**      
+*http://themes.osclass.lzadmin.com/demo/lzt_one*   
+Plataforma para visualização de templates para o cms OsClass, com painel de configurações em html5 e css3.
+
+**Bazaardelas**   
+*http://bazaardelas.com.br*    
+Website de compra e venda de artigos femininos novo e usados. 
+
+**Pagseguro Local Sandbox**    
+*http://pagsegurosandbox.layoutz.com.br/*    
+Sandbox local para auxilio na integração com a API V2 de pagamentos do PagSeguro, permite a criação de transações e notificações de mudança de status sem limites, desenvolvido em PHP, MYSQL, HTML5, CSS3 & JAVASCRIPT.
+
+
+Mais projetos particulares no **BitBucket**.   
+( *Posso fornecer um usuário se necessário para visualização*. )   
+
+
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
