@@ -1,11 +1,12 @@
-Vaga
+Vagas
 --------------------------------------------------------------------
-**Plataforma de Comentários**
+**Plataforma de Cadastro**   
+**Plataforma de Comentários**   
+**Tsuru: Plataforma como serviço**
 
-CV 
 --------------------------------------------------------------------
-
-##JAIR MILANES JUNIOR
+JAIR MILANES JUNIOR
+--------------------------------------------------------------------
 
 Nascido em **12 de Março de 1982** natural da cidade de **Cornélio Procópio/PR**   
    
@@ -22,6 +23,10 @@ Rua Paraíso 422A - Maringá - PR - 87005-260
 Linkedin: http://www.linkedin.com/pub/jair-milanes-junior/62/942/934    
 Facebook: http://facebook.com/layoutz
 
+---------------------------------------------------------------------
+Competências
+---------------------------------------------------------------------
+Analista de systemas / Desenvolvedor Web
 
 ---------------------------------------------------------------------
 Apresentação
