@@ -2,7 +2,7 @@ Vagas
 --------------------------------------------------------------------
 **Plataforma de Cadastro**   
 **Plataforma de Comentários**   
-**Tsuru: Plataforma como serviço**
+**Tsuru: Plataforma como serviço**    
 **TechTudo**
 --------------------------------------------------------------------
 JAIR MILANES JUNIOR
